@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-body-tertiary{
+    background-color: red !important;
+}
+.intro-section img{
+    max-width: 100%;
+    height: 100vh;
+}
